@@ -1,0 +1,37 @@
+body {
+    background-color: #FDECD2;
+}
+
+.question {
+    color: #FF6F77;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+.gif {
+    height: 250px;
+    width: 260px;
+}
+
+.answers {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.yes {
+    font-size: 40px;
+    border-radius: 30%;
+    margin-right: 170px;
+    background-color: #FFCABE;
+    color:  #D4668E;
+}
+
+.no {
+    font-size: 40px;
+    border-radius: 30%;
+    background-color: #FFCABE;
+    color:  #D4668E;
+    margin-left: -90px;
+    position: absolute;
+}
